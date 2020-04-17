@@ -26,4 +26,4 @@ python main.py --cell bn-star --stack 4 --data pmnist
 }
 ```
 
-The code is mostly based on the following implementation: https://github.com/JosvanderWesthuizen/janet
+%%%The code is mostly based on the following implementation: https://github.com/JosvanderWesthuizen/janet
