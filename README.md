@@ -26,3 +26,5 @@ python main.py --cell bn-star --stack 4 --data pmnist
 }
 ```
 
+The code is mostly based on https://github.com/JosvanderWesthuizen/janet.
+
