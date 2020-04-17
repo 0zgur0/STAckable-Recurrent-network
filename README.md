@@ -7,7 +7,7 @@ Turkoglu, Mehmet Ozgur, et al. "Gating Revisited: Deep Multi-layer RNNs That Can
 
 
 <img src="https://raw.githubusercontent.com/0zgur0/STAR_Network/master/imgs/cells.PNG" width="900" height="220">
-<img src="https://raw.githubusercontent.com/0zgur0/STAR_Network/master/imgs/img_grad.PNG" width="900" height="480">
+<img src="https://raw.githubusercontent.com/0zgur0/STAR_Network/master/imgs/img_grad.PNG" width="960" height="540">
 
 ## Getting Started
 
