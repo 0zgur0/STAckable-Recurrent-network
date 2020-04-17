@@ -1,7 +1,7 @@
 # STAR Network
 Tensorflow  implementation for STAckable Recurrent (STAR) network based on our Arxiv paper:
 
-Turkoglu, Mehmet Ozgur, et al. "Gating Revisited: Deep Multi-layer RNNs That Can Be Trained." arXiv preprint arXiv:1911.11033 (2019).
+Turkoglu, M.O., D'Aronco, S., Wegner, J.D. and Schindler, K., 2019. Gating Revisited: Deep Multi-layer RNNs That Can Be Trained. arXiv preprint arXiv:1911.11033.
 
 # [[Paper]](https://arxiv.org/abs/1911.11033)
 
