@@ -1,5 +1,5 @@
 # STAR Network
-Tensorflow  implementation for our reccurent neural network based on our Arxiv paper:
+Tensorflow  implementation for our RNN model based on our Arxiv paper:
 
 Turkoglu, Mehmet Ozgur, et al. "Gating Revisited: Deep Multi-layer RNNs That Can Be Trained." arXiv preprint arXiv:1911.11033 (2019).
 
