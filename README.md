@@ -6,7 +6,7 @@ Turkoglu, M.O., D'Aronco, S., Wegner, J.D. and Schindler, K., 2019. Gating Revis
 # [[Paper]](https://arxiv.org/abs/1911.11033)  - [[Blog post]](https://medium.com/p/2f01acdb73a7)
 
 
-<img src="https://raw.githubusercontent.com/0zgur0/STAR_Network/master/imgs/cells.PNG" width="960" height="220">
+<img src="https://raw.githubusercontent.com/0zgur0/STAR_Network/master/imgs/cells.PNG" width="960" height="210">
 <img src="https://raw.githubusercontent.com/0zgur0/STAR_Network/master/imgs/img_grad.PNG" width="960" height="540">
 
 ## Getting Started
