@@ -4,6 +4,7 @@ Tensorflow  implementation for STAckable Recurrent (STAR) network based on our A
 Turkoglu, M.O., D'Aronco, S., Wegner, J.D. and Schindler, K., 2019. Gating Revisited: Deep Multi-layer RNNs That Can Be Trained. arXiv preprint arXiv:1911.11033.
 
 # [[Paper]](https://arxiv.org/abs/1911.11033)
+# [[Blog post]](https://medium.com/p/2f01acdb73a7)
 
 
 <img src="https://raw.githubusercontent.com/0zgur0/STAR_Network/master/imgs/cells.PNG" width="900" height="220">
