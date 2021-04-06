@@ -18,15 +18,13 @@ python main.py --cell bn-star --stack 4 --data pmnist
 
 ## Citation
 ```bash
-@ARTICLE{9373965,
-  author={M. O. {Turkoglu} and S. {D'Aronco} and J. {Wegner} and K. {Schindler}},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Gating Revisited: Deep Multi-layer RNNs That Can Be Trained}, 
+@article{turkoglu2021gating,
+  title={Gating revisited: Deep multi-layer rnns that can be trained},
+  author={Turkoglu, Mehmet Ozgur and D'Aronco, Stefano and Wegner, Jan and Schindler, Konrad},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TPAMI.2021.3064878}}
+  publisher={IEEE}
+}
 ```
 
 The code is mostly based on https://github.com/JosvanderWesthuizen/janet.
