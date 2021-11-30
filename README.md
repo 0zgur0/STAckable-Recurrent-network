@@ -1,5 +1,5 @@
 # STAR Network
-Tensorflow  implementation for STAckable Recurrent (STAR) network based on our TPAMI paper:
+[PAMI21] Tensorflow  implementation for STAckable Recurrent (STAR) network based on our TPAMI paper:
 
 Gating Revisited: Deep Multi-layer RNNs That Can Be Trained.
 
