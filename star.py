@@ -57,11 +57,6 @@ class STARCell(tf.contrib.rnn.BasicLSTMCell):
 
             beta = 1
             new_h = tf.sigmoid(f)*h + (1-tf.sigmoid(f-beta))*tf.tanh(j)
-            
-            
-            #f = tf.sigmoid(f)
-            #j = tf.tanh(j)
-            #new_h = f * h + (1-f) * j
             new_h = tf.tanh(new_h)
 
             if self._state_is_tuple:
